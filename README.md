@@ -1,5 +1,4 @@
-# chatbot-ml-SIH-2019
-A Customer Support Chatbot using Machine Learning for Smart India Hackathon 2019 ( Winning Idea)
+
 
 Problem Definition / Idea:
 
