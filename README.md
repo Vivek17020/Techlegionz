@@ -1,6 +1,6 @@
 
 
-Problem Definition / Idea:
+ Idea:
 
 The Solution is that we have created a chatbot that responds to the request made by the customer by searching the DB for solutions. 
 Our chatbot is capable enough to interpret to all queries of the customers , analyze them and understand the intent of the queries. 
