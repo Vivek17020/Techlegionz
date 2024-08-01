@@ -12,6 +12,8 @@ the chatbot shall be prepared to handle similar queries in future.
 The Database has been maintained using SQL Alchemy and will be integrated with the NLP engine using Dialogflow API’s which can accomplish word embedding
 intent and entity detection.
 
+ChatBot Link : https://itsbobb.z29.web.core.windows.net/
+
 
 
 
